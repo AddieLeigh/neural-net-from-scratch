@@ -236,4 +236,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/linux,visualstudiocode,python,windows
+### Manual ###
+
+# Notes file to track project development
+notes.txt
